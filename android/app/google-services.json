@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912654643731",
+    "project_id": "healeat-fcef0",
+    "storage_bucket": "healeat-fcef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912654643731:android:77c61b24c4e81e5ff085e6",
+        "android_client_info": {
+          "package_name": "com.goodfeedin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNGVJdQGJsh4RMsCuAJsWHrHDDGl9gXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
