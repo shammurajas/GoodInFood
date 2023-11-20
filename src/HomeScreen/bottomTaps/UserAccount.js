@@ -24,7 +24,7 @@ const UserAccount = () => {
     return (
         <View>
             <Text style={{ textAlign: 'center', marginTop: 300 }}>
-                Ohm..
+                Account
             </Text>
             <TouchableOpacity
                 style={styles.LogoutButton}
